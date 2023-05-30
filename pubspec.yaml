@@ -1,0 +1,7 @@
+name: public_test_package
+
+environment:
+  sdk: '>=2.14.0 <=3.0.0'
+
+dependencies:
+  collection: ^1.17.0
